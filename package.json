@@ -1,7 +1,7 @@
 {
   "name": "primus.io",
-  "version": "4.0.1",
-  "description": "Primus.IO makes working with Primus a little slicker.",
+  "version": "4.0.2",
+  "description": "Beta@Learning Primus.IO makes working with Primus a little slicker.",
   "author": "Jonathan Brumley <cayasso@gmail.com>",
   "homepage": "https://github.com/cayasso/primus.io",
   "main": "index.js",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/cayasso/primus.io.git"
+    "url": "git://github.com/more456/primus.io.git"
   },
   "keywords": [
     "connection",
@@ -32,9 +32,9 @@
   "dependencies": {
     "eventemitter3": "1.2.x",
     "primus": "7.x",
-    "primus-emitter": "3.1.x",
-    "primus-multiplex": "3.2.x",
-    "primus-rooms": "3.4.x"
+    "primus-emitter": "git://github.com/more456/primus-emitter.git",
+    "primus-multiplex": "git://github.com/more456/primus-multiplex.git",
+    "primus-rooms": "git://github.com/more456/primus-rooms.git"
   },
   "devDependencies": {
     "expect.js": "^0.3.1",
