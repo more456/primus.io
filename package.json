@@ -34,7 +34,7 @@
     "primus": "7.x",
     "primus-emitter": "git://github.com/more456/primus-emitter.git",
     "primus-multiplex": "git://github.com/more456/primus-multiplex.git",
-    "primus-rooms": "git://github.com/more456/primus-rooms.git"
+    "primus-redis-rooms": "git://github.com/more456/primus-redis-rooms.git"
   },
   "devDependencies": {
     "expect.js": "^0.3.1",
